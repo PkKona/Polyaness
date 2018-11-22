@@ -3,7 +3,7 @@ body{
     height: 100%;
     background-image: url(wp3.jpg);
     background-size: cover;
-    
+    background-repeat: no-repeat;
 }
 
 img {
